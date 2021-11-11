@@ -76,7 +76,7 @@
 
 <a href="https://aryangoel-68932.web.app/"><img alt="Website" src="https://img.shields.io/badge/https://aryangoel-68932.web.app/-black?style=flat-square&logo=google-chrome"></a>
 
-<a href="https://www.linkedin.com/in/shivam-malpani-47a379198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/aryan-goel-547a93184/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aryan%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="https://www.instagram.com/im_aryangoel/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-im_aryangoel-black?style=flat-square&logo=instagram"></a>
 
