@@ -46,7 +46,7 @@
 
 <br/><br/>
 
-[![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-goel&show_icons=true)](https://github.com/Aryan-goel)
+![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=Aryan-goel&show_icons=true&theme=dark)
 
 <br/>
 
