@@ -20,9 +20,9 @@
 
 
 
-- 💻 &nbsp; Python | Java | Dart| MySQL| Flutter | kotlin
+- 💻 &nbsp; Python | Java | Dart| MySQL | Flutter | kotlin
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS| Git
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Git
 
 <!--
 
@@ -38,7 +38,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; AWS | Docker🐳 | Angular | Linux(kali)
 
 <hr>
 
