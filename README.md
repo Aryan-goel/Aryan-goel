@@ -78,9 +78,9 @@
 
 <a href="https://www.linkedin.com/in/shivam-malpani-47a379198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/im_aryangoel/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/im_aryangoel/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-im_aryangoel-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:goel.aryan2406@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:goel.aryan2406@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-goel.aryan2406@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
