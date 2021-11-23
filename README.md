@@ -22,7 +22,7 @@
 
 - 💻 &nbsp;  Java | MySQL | Flutter | kotlin | Python 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | NodeJS | Git | Moongo DB
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | NodeJS | Git |
 
 <!--
 
