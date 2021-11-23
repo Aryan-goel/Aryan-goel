@@ -20,9 +20,9 @@
 
 
 
-- 💻 &nbsp;  Java | Dart| MySQL | Flutter | kotlin | Python 
+- 💻 &nbsp;  Java | MySQL | Flutter | kotlin | Python 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | NodeJS |Git
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | NodeJS | Git | Moongo DB
 
 <!--
 
