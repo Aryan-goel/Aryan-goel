@@ -56,7 +56,7 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-goel&show_icons=true)  -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-goel&theme=tokyonight)
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan-goel&show_icons=true)
+<!-- ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan-goel&show_icons=true) -->
 
 
 
