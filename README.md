@@ -84,8 +84,8 @@
 
 
 <p align="center">
-
-<a href="https://aryangoel-68932.web.app/"><img alt="Website" src="https://img.shields.io/badge/https://aryangoel-68932.web.app/-black?style=flat-square&logo=google-chrome"></a>
+<!-- 
+<a href="https://aryangoel-68932.web.app/"><img alt="Website" src="https://img.shields.io/badge/https://aryangoel-68932.web.app/-black?style=flat-square&logo=google-chrome"></a> -->
 
 <a href="https://www.linkedin.com/in/aryan-goel-547a93184/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aryan%20Goel-blue?style=flat-square&logo=linkedin"></a>
 
