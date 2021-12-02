@@ -47,7 +47,7 @@
 <br/><br/>
 <!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/JavaScript.svg" /> -->
 
-![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=Aryan-goel&show_icons=true&theme=dark)
+![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=Aryan-goel&show_icons=true&theme=radical)
 
 
 
