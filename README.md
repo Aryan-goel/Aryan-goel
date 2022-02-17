@@ -1,110 +1,72 @@
-### Hi there 👋<h2> I'm ARYAN</h2>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aryan</h1>
+<h3 align="center">I'm a passionate web Developer from India.</h3>
 
-<h3> 👨🏻•💻 About Me </h3>
+## 🙋‍♂️ About Me
 
+- 🔭 I’m currently working on **[Web 3 and blockchain]
 
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at Bennett University greater noida and coding stuffs.
+- 📫 How to reach me **goel.aryan2406@gmail.com**
 
-- 🌱 &nbsp; Learning about Artificial Intelligence and Machine learning, Systems Design.
+- ⚡ Fun fact **I play games and workout very often.**
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-
-
-
-<h3>🛠 Tech Stack</h3>
-
-
-
-- 💻 &nbsp;  Java | MySQL | Flutter | kotlin | Python 
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | NodeJS | Git |
-
-<!--
-
-- 🛢 &nbsp; MySQL | MongoDB
-
-- 🔧 &nbsp; Git | Firebase | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
--->
-
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | Docker🐳 | Angular | Linux(kali)
-
-<hr>
-
-
-
-<br/><br/>
-<!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/JavaScript.svg" /> -->
-
-![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=Aryan-goel&show_icons=true&theme=radical)
-
-
-
-<br/>
-
-<br/>
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-goel&show_icons=true)  -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-goel&theme=radical)
-<!-- ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan-goel&show_icons=true) -->
-<!-- ## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p> -->
-
-
-
-<br><br>
-
-
-
-<hr>
-
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<br>
-
-
-
-<p align="center">
-<!-- 
-<a href="https://aryangoel-68932.web.app/"><img alt="Website" src="https://img.shields.io/badge/https://aryangoel-68932.web.app/-black?style=flat-square&logo=google-chrome"></a> -->
-
-<a href="https://www.linkedin.com/in/aryan-goel-547a93184/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aryan%20Goel-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="https://www.instagram.com/im_aryangoel/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-im_aryangoel-black?style=flat-square&logo=instagram"></a>
-
-<a href="mailto:goel.aryan2406@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-goel.aryan2406@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
+<p align="left"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
+<br/>
+
+<p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
+<br/>
+<br/>
 
+<a href="https://github.com/Aryan-goel/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aryan-goel28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+<br/>
+<br/>
 
+## Connect with me:
+<p align="left">
 
+<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
+<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
-
-<hr>
-
-
+</p>
 
