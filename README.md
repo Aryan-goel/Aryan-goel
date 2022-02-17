@@ -53,7 +53,7 @@
 <br/>
 <br/>
 
-[![Aryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=aryan-goel)](https://github.com/Aryan-goel/github-readme-activity-graph)
+[![Aryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=aryan-goel&theme=github)](https://github.com/Aryan-goel/github-readme-activity-graph)
 
 <br/>
 <br/>
